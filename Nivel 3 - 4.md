@@ -23,4 +23,4 @@ pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 ```
 
 ## Notas
-El comando ls por default solo lista los archivos visibles, pero no los archivos coculos para poder ver los archivos ocultos usamos la opciona -a y para ver una listado en formato largo usamos la opción de -l.
+El comando ls por default solo lista los archivos visibles, pero no los archivos coculos para poder ver los archivos ocultos usamos la opciona -a y para ver una listado en formato largo usamos la opción de -l 
