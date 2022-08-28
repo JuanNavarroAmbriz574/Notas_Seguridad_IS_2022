@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "36fb87897eee0462",
+    "type": "split",
+    "children": [
+      {
+        "id": "181ae438dadbd4e0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Nivel 8 - 9.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a5bf39153a9a3c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4980be2943337379",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99d05f127a19aba2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a932518a3a00f184",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0b485883c5f1e68",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f54353108cbcdc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "14bc738cdf576d8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0dd1a3858fc80d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nivel 8 - 9.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bafe679761c9bcf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nivel 8 - 9.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b400df91919d43c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "46549c040f1f4f5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nivel 8 - 9.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "181ae438dadbd4e0",
+  "lastOpenFiles": [
+    "Nivel 0.md",
+    "Nivel 0 - 1.md",
+    "Nivel 8 - 9.md",
+    "Nivel 7 - 8.md",
+    "Nivel 2 - 3.md",
+    "Bandit_Plantilla.md",
+    "Nivel 4 - 5.md",
+    "Nivel 5 - 6.md",
+    "Nivel 6 - 7.md",
+    "Nivel 3 - 4.md"
+  ]
+}
