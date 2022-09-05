@@ -8,7 +8,7 @@ The password for the next level is stored in a file somewhere under the **inher
 
 ## Cosas utilies
 user: bandit5
-password: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+password: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 
 ## Solucion
 ``` bash
@@ -21,7 +21,7 @@ maybehere01  maybehere03  maybehere05  maybehere07  maybehere09  maybehere11  ma
 bandit5@bandit:~/inhere$ find -type f -size 1033c ! -executable
 ./maybehere07/.file2
 bandit5@bandit:~/inhere$ cat ./maybehere07/.file2
-DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 ```
 
 ## Notas

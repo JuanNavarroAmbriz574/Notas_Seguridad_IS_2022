@@ -5,14 +5,14 @@ The password for the next level is stored in a file called spaces in this filena
 
 ## Cosas utilies
 user: bandit2
-password: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+password: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
 ## Solucion
 ``` bash
 bandit2@bandit:~$ ls
 spaces in this filename
 bandit2@bandit:~$ cat "spaces in this filename"
-UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 
 ```
 

@@ -9,14 +9,14 @@ The password for the next level is stored **somewhere on the server** and has 
 
 ## Cosas utilies
 user: bandit6
-password: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+password: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
 ## Solucion
 ``` bash
 bandit6@bandit:~$ find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
 /var/lib/dpkg/info/bandit7.password
 bandit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password
-HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 
 ```
 

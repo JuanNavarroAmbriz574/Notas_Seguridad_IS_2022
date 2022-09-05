@@ -5,7 +5,7 @@ The password for the next level is stored in the only human-readable file in the
 
 ## Cosas utilies
 user: bandit4
-password: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+password: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
 ## Solucion
 ``` bash
@@ -26,7 +26,7 @@ bandit4@bandit:~/inhere$ file ./-*
 ./-file08: data
 ./-file09: data
 bandit4@bandit:~/inhere$ cat ./-file07
-koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 
 ```
 

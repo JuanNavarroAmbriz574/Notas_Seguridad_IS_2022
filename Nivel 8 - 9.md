@@ -5,12 +5,12 @@ The password for the next level is stored in the file **data.txt** and is the 
 
 ## Cosas utilies
 user: bandit8
-password: cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+password: TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 
 ## Solucion
 ``` bash
 bandit8@bandit:~$ cat data.txt | sort | uniq -c -u
-      1 UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+      1 EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 
 ```
 

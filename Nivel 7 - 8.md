@@ -5,14 +5,14 @@ The password for the next level is stored in the file **data.txt** next to the
 
 ## Cosas utilies
 user: bandit7
-password: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+password: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 
 ## Solucion
 ``` bash
 bandit7@bandit:~$ ls
 data.txt
 bandit7@bandit:~$ grep millionth data.txt
-millionth       cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+millionth       TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 
 
 ```
