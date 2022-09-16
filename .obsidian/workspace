@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nivel 27 - 28.md",
+            "file": "Nivel 33 - 34.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nivel 27 - 28.md",
+                "file": "Nivel 33 - 34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nivel 27 - 28.md",
+                "file": "Nivel 33 - 34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nivel 27 - 28.md"
+                "file": "Nivel 33 - 34.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "b693615ee9c1c69a",
   "lastOpenFiles": [
+    "Nivel 32 -33.md",
+    "Nivel 33 - 34.md",
     "Bandit_Plantilla.md",
-    "Nivel 27 - 28.md",
-    "Nivel 26 - 27.md",
-    "Nivel 25 - 26.md",
-    "Nivel 11 - 12.md",
-    "Nivel 13 - 14.md",
-    "Nivel 14 - 15.md",
-    "Nivel 15 - 16.md",
-    "Nivel 16 - 17.md",
-    "Nivel 17 - 18.md"
+    "Nivel 31 - 32.md",
+    "Nivel 29 - 30.md",
+    "Nivel 30 - 31.md",
+    "Nivel 2 - 3.md",
+    "Nivel 1 - 2.md",
+    "Nivel 0 - 1.md",
+    "Nivel 0.md"
   ]
 }
