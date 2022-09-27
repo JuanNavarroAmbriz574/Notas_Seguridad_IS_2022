@@ -4,11 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "45da9b5d90b62160",
+        "id": "04e821ffd149bbde",
         "type": "leaf",
+        "dimension": 80.11928429423459,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Retos_bandit/Nivel 0.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7d388dde9f99567b",
+        "type": "leaf",
+        "dimension": 19.880715705765407,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Retos_picoCTF/PicoCTC_plantilla.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Retos_bandit/Nivel 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Retos_bandit/Nivel 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Retos_bandit/Nivel 0.md"
+              }
             }
           }
         ]
@@ -120,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "45da9b5d90b62160",
+  "active": "04e821ffd149bbde",
   "lastOpenFiles": [
-    "Nivel 31 - 32.md",
-    "Nivel 32 -33.md",
-    "Nivel 33 - 34.md",
-    "Bandit_Plantilla.md",
-    "Nivel 29 - 30.md",
-    "Nivel 30 - 31.md",
-    "Nivel 2 - 3.md",
-    "Nivel 1 - 2.md",
-    "Nivel 0 - 1.md",
-    "Nivel 0.md"
+    "Retos_bandit/Nivel 0 - 1.md",
+    "Retos_picoCTF/Pico CTF 2021/unsolved_!.md",
+    "Retos_picoCTF/Pico CTF 2021/Tab, Tab, Attack.md",
+    "Retos_picoCTF/Pico CTF 2021/Static ain't always noise.md",
+    "Retos_picoCTF/Pico CTF 2021/Nice netcat....md",
+    "Retos_picoCTF/Pico CTF 2021/Wave a flag.md",
+    "Retos_picoCTF/Pico CTF 2021/Obedient Cat.md",
+    "Retos_picoCTF/Pico CTF 2019/plumbing.md",
+    "Retos_picoCTF/Pico CTF 2019/Based.md",
+    "Retos_picoCTF/Pico CTF 2019/First Grep.md"
   ]
 }
