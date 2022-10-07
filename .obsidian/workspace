@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Retos_picoCTF/Pico CTF 2021/Web Exploitation/Scavenger Hunt.md",
+            "file": "Retos_picoCTF/Pico CTF 2022/Web Exploitation/Search Source.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos_picoCTF/Pico CTF 2021/Web Exploitation/Scavenger Hunt.md",
+                "file": "Retos_picoCTF/Pico CTF 2022/Web Exploitation/Search Source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos_picoCTF/Pico CTF 2021/Web Exploitation/Scavenger Hunt.md",
+                "file": "Retos_picoCTF/Pico CTF 2022/Web Exploitation/Search Source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos_picoCTF/Pico CTF 2021/Web Exploitation/Scavenger Hunt.md"
+                "file": "Retos_picoCTF/Pico CTF 2022/Web Exploitation/Search Source.md"
               }
             }
           }
@@ -144,15 +144,15 @@
   },
   "active": "7d388dde9f99567b",
   "lastOpenFiles": [
+    "Retos_picoCTF/Pico CTF 2022/Web Exploitation/Roboto Sans.md",
+    "Retos_picoCTF/Pico CTF 2022/Web Exploitation/Power Cookie.md",
+    "Retos_picoCTF/Pico CTF 2022/Web Exploitation/Local Authority.md",
+    "Retos_picoCTF/Pico CTF 2022/Web Exploitation/Inspect HTML.md",
+    "Retos_picoCTF/Pico CTF 2022/Web Exploitation/includes.md",
+    "Retos_picoCTF/Pico CTF 2022/Web Exploitation/Forbidden Paths.md",
+    "Retos_picoCTF/Pico CTF 2022/Web Exploitation/SQLiLite.md",
     "Retos_picoCTF/PicoCTC_plantilla.md",
-    "Retos_picoCTF/Pico CTF 2021/Web Exploitation/Scavenger Hunt.md",
-    "Retos_picoCTF/Pico CTF 2021/Web Exploitation/Cookies.md",
-    "Retos_picoCTF/Pico CTF 2021/Web Exploitation/GET aHEAD.md",
-    "Retos_picoCTF/Pico CTF 2021/General Skills/unsolved_!.md",
-    "Retos_picoCTF/Pico CTF 2019/Web Exploitations/JaWT Scratchpad.md",
-    "Retos_picoCTF/Pico CTF 2019/Web Exploitations/Irish-Name-Repo 3.md",
-    "Retos_bandit/Nivel 8 - 9.md",
-    "Retos_bandit/Nivel 7 - 8.md",
-    "Retos_bandit/Nivel 6 - 7.md"
+    "Retos_picoCTF/Pico CTF 2022/Web Exploitation/SQL Direct.md",
+    "Retos_picoCTF/Pico CTF 2022/Web Exploitation/Secrets.md"
   ]
 }
