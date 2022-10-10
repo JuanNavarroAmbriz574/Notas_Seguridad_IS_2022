@@ -2,7 +2,7 @@
 Find the flag in this [picture](https://jupiter.challenges.picoctf.org/static/00efdf2961da1e21470ffc0d496c3cc2/pico_img.png).
 
 ## Solución
-Primero descargamos la imagen.
+1. Primero descargamos la imagen.
 ``` bash
 juan574-picoctf@webshell:~$ wget https://jupiter.challenges.picoctf.org/static/00efdf2961da1e21470ffc0d496c3cc2/pico_img.png
 --2022-09-29 13:21:26--  https://jupiter.challenges.picoctf.org/static/00efdf2961da1e21470ffc0d496c3cc2/pico_img.png
@@ -20,6 +20,7 @@ juan574-picoctf@webshell:~$ ls
 README.txt  pico_img.png
 ```
 
+2. Usamos el comadno `exiftool` para leer los metadoatos de una imagen.
 ``` bash
 juan574-picoctf@webshell:~$ exiftool pico_img.png 
 ExifTool Version Number         : 12.40
