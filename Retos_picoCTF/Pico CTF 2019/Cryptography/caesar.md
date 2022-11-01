@@ -12,4 +12,3 @@ picoCTF{dspttjohuifsvcjdpoabrkttds}
 La bandera es : picoCTF{crossingtherubiconzaqjsscr}
 
 ## Notas
-Algoritmo cesar
