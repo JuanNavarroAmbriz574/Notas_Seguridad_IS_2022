@@ -26,4 +26,5 @@ Utilizaremos un script en python para obtener la bandera
 picoCTF{n33d_a_lArg3r_e_ccaa7776}
 
 ```
+
 ## Notas
